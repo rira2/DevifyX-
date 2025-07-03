@@ -70,7 +70,7 @@ This shows how adversarial examples can significantly reduce performance and how
 ![Accuracy on Clean Test Data AFTER Adversarial Training](Assets/Accuracy on clean test data AFTER adversarial training.png)
 
 #### Accuracy on Adversarial Examples AFTER Defense
-![Accuracy on Adversarial Examples AFTER Defense](Assets/Accuracy on adversarial examples AFTER defense.png)
+![Accuracy on Adversarial Examples AFTER Defense]([Assets/Accuracy on adversarial examples AFTER defense.png](https://github.com/rira2/DevifyX-/blob/main/Assets/Accuracy%20on%20adversarial%20examples%20AFTER%20defense%20.png))
 
 #### Accuracy on Adversarial Examples AFTER Defense, Adverse Test Set
 ![Accuracy on Adversarial Examples AFTER Defense, Adverse Test Set](Assets/Accuracy on adversarial examples AFTER defense, adverse test set.png)
