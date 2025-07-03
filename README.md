@@ -29,55 +29,52 @@ This shows how adversarial examples can significantly reduce performance and how
 
 ---
 
-## Dataset Example
+## Dataset Examples
 
-The model uses the standard MNIST dataset of handwritten digits:
-
-![Dataset Samples](assets/dataset_pictures.png)
+![Dataset Pictures](Assets/dataset pictures.png)
 
 ---
 
-## Training Performance
+## Accuracy and Loss During Training
 
 ### Accuracy Over Epochs
-
-Shows how training and validation accuracy improved over epochs.
-
-![Accuracy Over Epochs](assets/accuracy_over_epochs.png)
+![Accuracy Over Epochs](Assets/accuracy over epochs.png)
 
 ### Loss Over Epochs
-
-Shows how training and validation loss changed over epochs.
-
-![Loss Over Epochs](assets/loss_over_epochs.png)
+![Loss Over Epochs](Assets/loss over epochs.png)
 
 ---
 
 ## Model Evaluation
 
 ### Confusion Matrix
+![Confusion Matrix](Assets/confusion matrix.png)
 
-Visual representation of model predictions vs. actual labels.
+### Classification Report
+![Classification Report](Assets/classification report.png)
 
-![Confusion Matrix](assets/confusion_matrix.png)
+### History
+![History](Assets/history.png)
+
+### History Continued
+![History Continued](Assets/history cont..png)
 
 ---
 
-## Robustness Testing (FGSM)
+## Robustness & Adversarial Training
 
 ### Accuracy After Adversarial Training
-
-Demonstrates the improvement in accuracy when testing with adversarial examples after adversarial training.
-
-![Accuracy After Adversarial Training](assets/accuracy_after_adversarial_training.png)
+![Accuracy After Adversarial Training](Assets/acurracy after adversarial training.png)
 
 ### Loss After Adversarial Training
+![Loss After Adversarial Training](Assets/loss after adversarial training.png)
 
-Shows how loss improved for adversarial test samples.
+### Accuracy on Adversarial Examples AFTER Defense
+![Accuracy on Adversarial Examples AFTER Defense](Assets/Accuracy on adversarial examples AFTER defense.png)
 
-![Loss After Adversarial Training](assets/loss_after_adversarial_training.png)
+### Accuracy on Clean Test Data AFTER Adversarial Training
+![Accuracy on Clean Test Data AFTER Adversarial Training](Assets/Accuracy on clean test data AFTER adversarial training.png)
 
----
 
 ## Bonus Features Implemented
 
