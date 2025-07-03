@@ -28,6 +28,58 @@ The goal of this project is to develop a robust Convolutional Neural Network (CN
 This shows how adversarial examples can significantly reduce performance and how simple defenses like adversarial training can improve robustness.
 
 ---
+## Project Screenshots
+
+### Dataset Samples
+![Dataset Pictures](Assets/dataset pictures)
+
+---
+
+### Accuracy and Loss During Training
+
+#### Accuracy Over Epochs
+![Accuracy Over Epochs](Assets/accuracy over epochs)
+
+#### Loss Over Epochs
+![Loss Over Epochs](Assets/loss over epochs)
+
+#### History
+![History](Assets/history)
+
+#### History Continued
+![History Continued](Assets/history cont.)
+
+---
+
+### Model Evaluation
+
+#### Confusion Matrix
+![Confusion Matrix](Assets/confusion matrix)
+
+#### Classification Report
+![Classification Report](Assets/classification report)
+
+#### Model Summary
+![Model Summary](Assets/model summary)
+
+---
+
+### Robustness & Adversarial Testing
+
+#### Accuracy on Clean Test Data AFTER Adversarial Training
+![Accuracy on Clean Test Data AFTER Adversarial Training](Assets/Accuracy on clean test data AFTER adversarial training.png)
+
+#### Accuracy on Adversarial Examples AFTER Defense
+![Accuracy on Adversarial Examples AFTER Defense](Assets/Accuracy on adversarial examples AFTER defense)
+
+#### Accuracy on Adversarial Examples AFTER Defense, Adverse Test Set
+![Accuracy on Adversarial Examples AFTER Defense, Adverse Test Set](Assets/Accuracy on adversarial examples AFTER defense, adverse test set)
+
+#### Accuracy After Adversarial Training
+![Accuracy After Adversarial Training](Assets/acurracy after adversarial training)
+
+#### Loss After Adversarial Training
+![Loss After Adversarial Training](Assets/loss after adversarial training)
 
 
 
