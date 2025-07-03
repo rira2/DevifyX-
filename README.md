@@ -31,36 +31,36 @@ This shows how adversarial examples can significantly reduce performance and how
 ## Project Screenshots
 
 ### Dataset Samples
-![Dataset Pictures](Assets/dataset pictures)
+![Dataset Pictures](Assets/dataset pictures.png)
 
 ---
 
 ### Accuracy and Loss During Training
 
 #### Accuracy Over Epochs
-![Accuracy Over Epochs](Assets/accuracy over epochs)
+![Accuracy Over Epochs](Assets/accuracy over epochs.png)
 
 #### Loss Over Epochs
-![Loss Over Epochs](Assets/loss over epochs)
+![Loss Over Epochs](Assets/loss over epochs.png)
 
 #### History
 ![History](Assets/history)
 
 #### History Continued
-![History Continued](Assets/history cont.)
+![History Continued](Assets/history cont..png)
 
 ---
 
 ### Model Evaluation
 
 #### Confusion Matrix
-![Confusion Matrix](Assets/confusion matrix)
+![Confusion Matrix](Assets/confusion matrix.png)
 
 #### Classification Report
-![Classification Report](Assets/classification report)
+![Classification Report](Assets/classification report.png)
 
 #### Model Summary
-![Model Summary](Assets/model summary)
+![Model Summary](Assets/model summary.png)
 
 ---
 
@@ -70,16 +70,16 @@ This shows how adversarial examples can significantly reduce performance and how
 ![Accuracy on Clean Test Data AFTER Adversarial Training](Assets/Accuracy on clean test data AFTER adversarial training.png)
 
 #### Accuracy on Adversarial Examples AFTER Defense
-![Accuracy on Adversarial Examples AFTER Defense](Assets/Accuracy on adversarial examples AFTER defense)
+![Accuracy on Adversarial Examples AFTER Defense](Assets/Accuracy on adversarial examples AFTER defense.png)
 
 #### Accuracy on Adversarial Examples AFTER Defense, Adverse Test Set
-![Accuracy on Adversarial Examples AFTER Defense, Adverse Test Set](Assets/Accuracy on adversarial examples AFTER defense, adverse test set)
+![Accuracy on Adversarial Examples AFTER Defense, Adverse Test Set](Assets/Accuracy on adversarial examples AFTER defense, adverse test set.png)
 
 #### Accuracy After Adversarial Training
-![Accuracy After Adversarial Training](Assets/acurracy after adversarial training)
+![Accuracy After Adversarial Training](Assets/acurracy after adversarial training.png)
 
 #### Loss After Adversarial Training
-![Loss After Adversarial Training](Assets/loss after adversarial training)
+![Loss After Adversarial Training](Assets/loss after adversarial training.png)
 
 
 
