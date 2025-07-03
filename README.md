@@ -53,6 +53,7 @@ To run this notebook and reproduce the results:
    cd digit-recognition-assignment
 2.Install required packages:
 pip install tensorflow keras-tuner seaborn
+
 3.Open notebook.ipynb in Jupyter or Google Colab.
-4.
-Run all cells step by step.
+
+4.Run all cells step by step.
