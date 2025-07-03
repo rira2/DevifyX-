@@ -57,3 +57,7 @@ pip install tensorflow keras-tuner seaborn
 3.Open notebook.ipynb in Jupyter or Google Colab.
 
 4.Run all cells step by step.
+
+GPT Prompt Usage Summary
+I used GPT (ChatGPT) mainly to get guidance on structuring the project, clarifying concepts like hyperparameter tuning and adversarial attacks, and for general troubleshooting help.
+All final code, experiments, and results were run and checked by me.
