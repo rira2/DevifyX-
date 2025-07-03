@@ -44,7 +44,7 @@ This shows how adversarial examples can significantly reduce performance and how
 ![image alt](https://github.com/rira2/DevifyX-/blob/main/Assets/loss%20over%20epochs%20.png)
 
 #### History
-![History](Assets/history)
+![image alt](https://github.com/rira2/DevifyX-/blob/main/Assets/history.png)
 
 #### History Continued
 ![image alt](https://github.com/rira2/DevifyX-/blob/main/Assets/history%20cont..png)
@@ -73,13 +73,13 @@ This shows how adversarial examples can significantly reduce performance and how
 ![image alt](https://github.com/rira2/DevifyX-/blob/main/Assets/Accuracy%20on%20adversarial%20examples%20AFTER%20defense%20.png))
 
 #### Accuracy on Adversarial Examples AFTER Defense, Adverse Test Set
-![image alt](Ahttps://github.com/rira2/DevifyX-/blob/main/Assets/Accuracy%20on%20adversarial%20examples%20AFTER%20defense%2Cadverse%20test%20set.png)
+![image alt](https://github.com/rira2/DevifyX-/blob/main/Assets/Accuracy%20on%20adversarial%20examples%20AFTER%20defense%2Cadverse%20test%20set.png)
 
 #### Accuracy After Adversarial Training
 ![image alt](https://github.com/rira2/DevifyX-/blob/main/Assets/acurracy%20after%20adversarial%20training.png)
 
 #### Loss After Adversarial Training
-![image alt](Ahttps://github.com/rira2/DevifyX-/blob/main/Assets/loss%20after%20adversarial%20training%20.png)
+![image alt](https://github.com/rira2/DevifyX-/blob/main/Assets/loss%20after%20adversarial%20training%20.png)
 
 
 
